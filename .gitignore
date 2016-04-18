@@ -30,3 +30,10 @@
 
 # Debug files
 *.dSYM/
+
+# Custom
+obj/
+*.cbp
+*.layout
+*.depend
+2048_plus
