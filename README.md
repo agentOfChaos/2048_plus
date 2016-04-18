@@ -11,3 +11,7 @@ I made this game back when the game was very popular, and the lecture I was atte
 # Running
 
    ./2048_plus
+
+# Hacking
+
+To change the size of the board, you can change "gamew" and "gameh" in main.c, and then recompile
