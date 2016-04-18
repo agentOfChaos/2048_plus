@@ -10,7 +10,7 @@ I made this program back when the game was very popular, and the lecture I was a
 
 # Running
 
-   ./2048_plus
+    ./2048_plus
 
 # Hacking
 
